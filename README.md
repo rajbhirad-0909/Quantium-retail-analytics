@@ -81,6 +81,8 @@ GitHub version control and documentation
 🏅 Certificate
 
 Completed the Quantium Data Analytics Job Simulation – November 2025, demonstrating retail analytics, uplift testing, and commercial insight generation.
+
 👤 Author: Raj Bhirad
 Aspiring Data Analyst | Power BI | SQL | Python | AI-Driven Analytics
-For queries or collaboration: (add GitHub email or LinkedIn if you want)
+For queries or collaboration: Email: rajbhirad@gmail.com 
+
